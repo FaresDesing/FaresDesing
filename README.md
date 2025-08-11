@@ -1,8 +1,6 @@
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhackr.io%2Fblog%2Fc-sharp-vs-python%2Fthumbnail%2Flarge&f=1&nofb=1&ipt=686ce0651e004cdeacdf6a1c9990fbdc3b6124c60c451592b6ea72e9637449fb" alt="C# vs Python">
 
-<h1 align="center">Hi, I'm Ahmet Fares</h1>
-<h1 align="center">Graphic & Web Design </h1>
-<h1 align="center">Junior Developer</h1>
+<h1 align="center">Hi, I'm Ahmet Fares — Junior Developer specializing in Graphic & Web Design. </h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
