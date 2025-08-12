@@ -1,7 +1,8 @@
 <div style="display: flex; align-items: center; gap: 20px;">
     <img src="https://images.squarespace-cdn.com/content/v1/54cf6d35e4b01cf5fad46006/1447037140112-CMM0WKLI4TFMD3G0JPFV/Eat-sleep-gif-repeat2.gif" alt="Eat code sleep repeat" style="width: 400px;">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhackr.io%2Fblog%2Fc-sharp-vs-python%2Fthumbnail%2Flarge&f=1&nofb=1&ipt=686ce0651e004cdeacdf6a1c9990fbdc3b6124c60c451592b6ea72e9637449fb" alt="C# vs Python" style="width: 400px;">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhackr.io%2Fblog%2Fc-sharp-vs-python%2Fthumbnail%2Flarge&f=1&nofb=1&ipt=686ce0651e004cdeacdf6a1c9990fbdc3b6124c60c451592b6ea72e9637449fb" alt="C# vs Python" style="width: 500px;">
 </div>
+
 
 
 
