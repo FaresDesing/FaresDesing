@@ -1,11 +1,15 @@
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhackr.io%2Fblog%2Fc-sharp-vs-python%2Fthumbnail%2Flarge&f=1&nofb=1&ipt=686ce0651e004cdeacdf6a1c9990fbdc3b6124c60c451592b6ea72e9637449fb" alt="C# vs Python">
+<div style="display: flex; align-items: center; gap: 10px;">
+    <img src="https://images.squarespace-cdn.com/content/v1/54cf6d35e4b01cf5fad46006/1447037140112-CMM0WKLI4TFMD3G0JPFV/Eat-sleep-gif-repeat2.gif" alt="Eat code sleep repeat" style="width: 200px;">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhackr.io%2Fblog%2Fc-sharp-vs-python%2Fthumbnail%2Flarge&f=1&nofb=1&ipt=686ce0651e004cdeacdf6a1c9990fbdc3b6124c60c451592b6ea72e9637449fb" alt="C# vs Python" style="width: 200px;">
+</div>
+
 
 <h1 align="center">Hi, I'm Ahmet Fares<br>Graphic & Web Designer<br>Junior Developer</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/gamercraft_pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gamercraft_pro" height="30" width="40" /></a>
-<img src="https://images.squarespace-cdn.com/content/v1/54cf6d35e4b01cf5fad46006/1447037140112-CMM0WKLI4TFMD3G0JPFV/Eat-sleep-gif-repeat2.gif" alt="Eat code sleep repeat" />
+
 
 
 
