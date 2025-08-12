@@ -5,7 +5,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/gamercraft_pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gamercraft_pro" height="30" width="40" /></a>
-<img src="https://www.richardkeelingdesign.com/gif/y3qtiku0m3ouo7nhh8jo28szu3270u" alt="Eat code sleep repeat">
+<img src="https://images.squarespace-cdn.com/content/v1/54cf6d35e4b01cf5fad46006/1447037140112-CMM0WKLI4TFMD3G0JPFV/Eat-sleep-gif-repeat2.gif" alt="Eat code sleep repeat" />
+
 
 
 <h3 align="left">Languages and Tools:</h3>
